@@ -45,8 +45,9 @@ Forexample
 1. Ensure you have Kafka running locally (default: localhost:9092). Use the provided Docker Compose file if needed.
 2. Clone this repo
 3. Run the application 'dotnet run'
-4. Use the Swagger UI (or Postman) to send messages through "Try it out"
+4. Use the Swagger UI (or Postman) to send messages through "Try it out" http://localhost:5237/swagger
 5. Watch the console for consumer output.
+
 
 Thank you for the great conversation today!
 

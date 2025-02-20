@@ -33,5 +33,5 @@ public class OrderController : Controller
 
 public class OrderDTO
 {
-    public string Message { get; set; }
+    public string? Message { get; set; }
 }

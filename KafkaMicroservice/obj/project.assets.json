@@ -655,11 +655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arber\\Desktop\\Kafka\\KafkaMicroservice\\KafkaMicroservice.csproj",
+      "projectUniqueName": "C:\\Users\\Arber\\Desktop\\KafkaTest\\Kafka\\KafkaMicroservice\\KafkaMicroservice.csproj",
       "projectName": "KafkaMicroservice",
-      "projectPath": "C:\\Users\\Arber\\Desktop\\Kafka\\KafkaMicroservice\\KafkaMicroservice.csproj",
+      "projectPath": "C:\\Users\\Arber\\Desktop\\KafkaTest\\Kafka\\KafkaMicroservice\\KafkaMicroservice.csproj",
       "packagesPath": "C:\\Users\\Arber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arber\\Desktop\\Kafka\\KafkaMicroservice\\obj\\",
+      "outputPath": "C:\\Users\\Arber\\Desktop\\KafkaTest\\Kafka\\KafkaMicroservice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
