@@ -1,5 +1,14 @@
 # Kafka Integration Demonstration
 
+## Getting started
+
+1. Ensure you have Kafka running locally (default: localhost:9092). Use the provided Docker Compose file if needed.
+2. Clone this repo
+3. Run the application 'dotnet run'
+4. Use the Swagger UI (or Postman) to send messages through "Try it out" http://localhost:5237/swagger
+5. Watch the console for consumer output.
+
+
 ## What I have created:
 
 - Basic producer service that can send messages to a Kafka Topic
@@ -38,15 +47,6 @@ Forexample
     - Message batching and proper resource disposal 
 5. Encryption
     - Add message encryption
-
-
-## Getting started
-
-1. Ensure you have Kafka running locally (default: localhost:9092). Use the provided Docker Compose file if needed.
-2. Clone this repo
-3. Run the application 'dotnet run'
-4. Use the Swagger UI (or Postman) to send messages through "Try it out" http://localhost:5237/swagger
-5. Watch the console for consumer output.
 
 
 Thank you for the great conversation today!
