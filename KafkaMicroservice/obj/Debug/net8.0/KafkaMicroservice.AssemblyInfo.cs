@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KafkaMicroservice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb71f9da9b26d4b18f46e051ad345d32dd313b8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+623ca6fff639708c02883878b2ac8ca6b896ed32")]
 [assembly: System.Reflection.AssemblyProductAttribute("KafkaMicroservice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KafkaMicroservice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
